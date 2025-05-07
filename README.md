@@ -1,2 +1,2 @@
 # Basic-Python-Projects
-GUI based projects
+GUI based Python projects
